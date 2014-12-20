@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  usage_desc: MyString
+  quantity: 1
+  yarns: 
+  knitting_patterns: 
+
+two:
+  usage_desc: MyString
+  quantity: 1
+  yarns: 
+  knitting_patterns: 

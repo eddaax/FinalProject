@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  color: MyString
+  weight: MyString
+  material: MyString
+  lotnr: 1
+  brand: MyString
+
+two:
+  color: MyString
+  weight: MyString
+  material: MyString
+  lotnr: 1
+  brand: MyString

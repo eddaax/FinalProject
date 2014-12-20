@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  usage_desc: MyString
+  needles: 
+  knitting_patterns: 
+
+two:
+  usage_desc: MyString
+  needles: 
+  knitting_patterns: 
